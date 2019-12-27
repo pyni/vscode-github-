@@ -31,3 +31,5 @@
 ２．配置同步是用的setting sync
 
 这可以让不同的电脑使用相同的vscode配置
+
+3.VS code返回按键，很有用：ctrl+alt+-
