@@ -33,3 +33,7 @@
 这可以让不同的电脑使用相同的vscode配置
 
 3.VS code返回按键，很有用：ctrl+alt+-
+
+
+4.Vscode ＋　cmakelist文件：
+https://blog.csdn.net/wanzew/article/details/83097457
