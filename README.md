@@ -42,5 +42,5 @@ https://blog.csdn.net/wanzew/article/details/83097457
 
 
 5.VScode+C++ 尤其是两个json文件的配置：
-
+包括了如何用std11运行等
 https://blog.csdn.net/weixin_43374723/article/details/84064644#4tasksjson_73
