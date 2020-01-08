@@ -44,3 +44,8 @@ https://blog.csdn.net/wanzew/article/details/83097457
 5.VScode+C++ 尤其是两个json文件的配置：
 包括了如何用std11运行等
 https://blog.csdn.net/weixin_43374723/article/details/84064644#4tasksjson_73
+
+
+６.VScode+python　２和３ 的两个版本切换：
+找到“设置”里面（可参见最左下角的齿轮）的"python:python path",如果是用的python2,则输入为python2,如果用的python3,则输入python3
+
