@@ -49,3 +49,5 @@ https://blog.csdn.net/weixin_43374723/article/details/84064644#4tasksjson_73
 ６.VScode+python　２和３ 的两个版本切换：
 找到“设置”里面（可参见最左下角的齿轮）的"python:python path",如果是用的python2,则输入为python2,如果用的python3,则输入python3
 
+７.VScode　用参数进行调试：
+https://blog.csdn.net/u012332816/article/details/80801106
