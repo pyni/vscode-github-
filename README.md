@@ -51,3 +51,5 @@ https://blog.csdn.net/weixin_43374723/article/details/84064644#4tasksjson_73
 
 ７.VScode　用参数进行调试：
 https://blog.csdn.net/u012332816/article/details/80801106
+
+8.vode 的临时文件是存放在　.cache/.vscode-cpptools　里面的
