@@ -39,8 +39,11 @@
 
 https://blog.csdn.net/wanzew/article/details/83097457
 
+不过vscode应该是有cmake插件的，也就是cmake tools，这个应该是可以直接用的，
+且其使用在整个界面的最后一列都有选择，比如选择build？还是debug?还是run，也包括是运行哪个程序：
 
 
+ 
 5.VScode+C++ 尤其是两个json文件的配置：
 包括了如何用std11运行等
 https://blog.csdn.net/weixin_43374723/article/details/84064644#4tasksjson_73
